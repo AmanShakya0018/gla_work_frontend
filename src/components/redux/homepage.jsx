@@ -17,8 +17,8 @@ const Homepage = () => {
   };
 
   return (
-    <div className="flex min-h-screen flex-col items-center bg-neutral-100 px-4 py-16">
-      <h1 className="mb-10 text-3xl font-semibold text-neutral-900">
+    <div className="flex min-h-screen flex-col items-center gap-10 bg-neutral-100 px-4 py-16">
+      <h1 className="text-3xl font-semibold text-neutral-900">
         Meetings Dashboard
       </h1>
 
